@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is ABHIJEET SINGH
+#### I am STUDENT
 
-<!--
-**Abhijeetsingh9452/Abhijeetsingh9452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun,I created a nice and simple GitHub Readme page.
 
-### Here are some ideas to get you started:
+Skills: HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on ... LHD challenges and workshop
-- 🌱 I’m currently learning ... to make github profile readme
-- 👯 I’m looking to collaborate on ... python
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... on this profile
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
